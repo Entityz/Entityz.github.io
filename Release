@@ -1,0 +1,8 @@
+Origin: Entity's Repo
+Label: Entity's Repo
+Description: Entity's Repo
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+

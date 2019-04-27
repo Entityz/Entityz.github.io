@@ -1,0 +1,233 @@
+Package: Flex3beta
+Version: 1:3~Beta52
+Architecture: iphoneos-arm
+Maintainer: John Coates
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
+Filename: debs/Flex3beta_1:3~Beta52_iphoneos-arm.deb
+Size: 24901954
+MD5sum: 1dd5836fe7be53d6b39de0fe8f97e17c
+SHA1: 827c252ad1f84e24fee06a492efe90f8d7379e6a
+SHA256: 4f45851d8fb5d81a9504d65553489065d792ae78fb092c149f2d832c7b261f5f
+Section: Tweaks
+Description: 开发自己的调整并在 Flex 社区云上共享它们
+Author: John Coates
+Name: Flex 3 Beta
+Recommended: com.rpetrich.rocketbootstrap
+
+Package: Flex3beta
+Version: 1:3~Beta56
+Architecture: iphoneos-arm
+Maintainer: John Coates
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
+Filename: debs/Flex3beta_1:3~Beta56_iphoneos-arm.deb
+Size: 24907672
+MD5sum: 18bb76a51f80d9c8634a78cf7444afd2
+SHA1: 677c32d35e347307c2e640e45cd7216e05078be3
+SHA256: 04932e562c55fcd25bbfbd56b10d4ec1471f6941628437b3d68672a30ca53608
+Section: Tweaks
+Description: 开发自己的调整并在 Flex 社区云上共享它们
+Author: John Coates
+Name: Flex 3 Beta
+Recommended: com.rpetrich.rocketbootstrap
+
+Package: Flex3beta
+Version: 1:3~Beta57
+Architecture: iphoneos-arm
+Maintainer: John Coates
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
+Filename: debs/Flex3beta_1:3~Beta57_iphoneos-arm.deb
+Size: 24910886
+MD5sum: d5ab9ae2ca78ba897797608904046e35
+SHA1: bf0561282676b98906cdfa8b1ec11d6289ccdb8b
+SHA256: 6e7b44b0b2a3c0fafd0159ef4af7fe4ded8d50fd6d892612cc4849b95e53586f
+Section: Tweaks
+Description: 开发自己的调整并在 Flex 社区云上共享它们
+Author: John Coates
+Name: Flex 3 Beta
+Recommended: com.rpetrich.rocketbootstrap
+
+Package: Flex3beta
+Version: 1:3~Beta59
+Architecture: iphoneos-arm
+Maintainer: John Coates
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Filename: debs/Flex3beta_1:3~Beta59_iphoneos-arm.deb
+Size: 21095688
+MD5sum: ea99aed86f4010893ef6efc3454cb727
+SHA1: 742f70ccdd45d2ca2c303ec7f8c33131a6d5fd43
+SHA256: f094786185e43850c647a07a38826dda5c6bc506a25c9127b62e8d346b6b9fc3
+Section: Tweaks
+Description: 开发自己的调整并在 Flex 社区云上共享它们
+Author: John Coates
+Name: Flex 3 Beta
+Recommended: com.rpetrich.rocketbootstrap
+
+Package: Flex3beta
+Version: 1:3~Beta60
+Architecture: iphoneos-arm
+Maintainer: John Coates
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Filename: debs/Flex3beta_1:3~Beta60_iphoneos-arm.deb
+Size: 21096610
+MD5sum: 526125f78c1d85d904e53163e6b8d9f8
+SHA1: c01ba9b772c4ceab7c88495e0ba9652d9798dd01
+SHA256: 1c778b82831fcbb9f2dacc878c17c52809ea238c13372974063eaf73fcf95733
+Section: Tweaks
+Description: 开发自己的调整并在 Flex 社区云上共享它们
+Author: John Coates
+Name: Flex 3 Beta
+Recommended: com.rpetrich.rocketbootstrap
+
+Package: Flex3beta
+Version: 1:3~Beta61
+Architecture: iphoneos-arm
+Maintainer: John Coates
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Filename: debs/Flex3beta_1:3~Beta61_iphoneos-arm.deb
+Size: 21258974
+MD5sum: b553ca113e3699615b36cd4c7f64ccbe
+SHA1: 22dc261306cc1f7d73bd6a1045c97d1ebc84f415
+SHA256: 95af4ab6a890fc647c722ef2a1980b3a5e7263d6771cd931ff3b71988f54633e
+Section: Tweaks
+Description: 开发自己的调整并在 Flex 社区云上共享它们
+Author: John Coates
+Name: Flex 3 Beta
+Recommended: com.rpetrich.rocketbootstrap
+
+Package: Flex3beta
+Version: 1:3~Beta62
+Architecture: iphoneos-arm
+Maintainer: John Coates
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Filename: debs/Flex3beta_1:3~Beta62_iphoneos-arm.deb
+Size: 21260104
+MD5sum: f799a7f6d3449edc6e5db461557fefab
+SHA1: e607baeef48629ddca73c392238f6f10b9a20868
+SHA256: 4478f38404d8d73d725adaaadcd5ba0b399ecf4f241b615b48990d9148ce1253
+Section: Tweaks
+Description: 开发自己的调整并在 Flex 社区云上共享它们
+Author: John Coates
+Name: Flex 3 Beta
+Recommended: com.rpetrich.rocketbootstrap
+
+Package: com.dave1482.powerapp
+Version: 4.1.1
+Architecture: iphoneos-arm
+Maintainer: Dave1482 <thedave1482@gmail.com>
+Installed-Size: 1315
+Depends: firmware (>= 3.0), system-cmds, shell-cmds, coreutils
+Conflicts: com.dave1482.powerappbeta
+Filename: debs/com.dave1482.powerapp_4.1.1_iphoneos-arm.deb
+Size: 258354
+MD5sum: d8cae8a8878734e4c007bca6601699df
+SHA1: fc319255cc1b2b67ed1222ad7cffa314fba90dfc
+SHA256: c0a90f2f824ca063fb633ca4a41f064951071008798e4ee81dd47e17d1a47445
+Section: Utilities
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
+Description: 重启,关机,注销,进入安全模式
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Author: Dave1482 <thedave1482@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
+Dev: thedave1482
+Icon: file:///Applications/PowerApp.app/Icon.png
+Name: PowerApp
+
+Package: com.dave1482.powerapp
+Version: 4.1.2
+Architecture: iphoneos-arm
+Maintainer: Dave1482 <thedave1482@gmail.com>
+Installed-Size: 1312
+Depends: firmware (>= 3.0), system-cmds, shell-cmds, coreutils
+Conflicts: com.dave1482.powerappbeta
+Filename: debs/com.dave1482.powerapp_4.1.2_iphoneos-arm.deb
+Size: 254312
+MD5sum: 44489cae75ce86944e40a4be67af09fe
+SHA1: 494857a5e07ccc12ce411e2caacd63978ea94a30
+SHA256: ea7cb1f43e7fc1402b8739663f3650fa6db89134f5007466330b5c7cbfd4825b
+Section: Utilities
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
+Description: 重启,关机,注销,进入安全模式
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Author: Dave1482 <thedave1482@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
+Dev: thedave1482
+Icon: file:///Applications/PowerApp.app/Icon.png
+Name: PowerApp
+
+Package: com.dave1482.powerapp
+Version: 4.2
+Architecture: iphoneos-arm
+Maintainer: Dave1482 <thedave1482@gmail.com>
+Depends: firmware (>= 3.0), system-cmds, shell-cmds, coreutils
+Conflicts: com.dave1482.powerappbeta
+Filename: debs/com.dave1482.powerapp_4.2_iphoneos-arm.deb
+Size: 259392
+MD5sum: 307038b3babdbad824092837ccb2600c
+SHA1: 370b4dc8b3420dae7ba84879c3c15dfbbf988eea
+SHA256: 20ff0ce043f2f674a5e8fefc12ba38f9ac0a8829b0990eeb48a152c179a860c1
+Section: Utilities
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
+Description: 重启,关机,注销,进入安全模式
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Author: Dave1482 <thedave1482@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
+Dev: thedave1482
+Icon: file:///Applications/PowerApp.app/Icon.png
+Name: PowerApp
+
+Package: com.dave1482.powerapp
+Version: 4.3.0
+Architecture: iphoneos-arm
+Maintainer: Dave1482 <thedave1482@gmail.com>
+Pre-Depends: firmware (>= 3.0), system-cmds, shell-cmds, coreutils
+Conflicts: com.dave1482.powerappbeta
+Filename: debs/com.dave1482.powerapp_4.3.0_iphoneos-arm.deb
+Size: 230734
+MD5sum: 6f8515f6c0b38491144f8cfaefa0855b
+SHA1: 03e6542104c791a0be5dacaea589f9a8b8fc1ed2
+SHA256: 500b5b91f17bdaacc9b491a5e5665304c41787c610a59a8cce7837632233bd9f
+Section: Utilities
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
+Description: 重启,关机,注销,进入安全模式
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Dave1482 <dave1482@dave1482.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
+Dev: thedave1482
+Icon: file:///Applications/PowerApp.app/Icon.png
+Name: PowerApp
+
+Package: com.dave1482.powerapp
+Version: 4.3.1
+Architecture: iphoneos-arm
+Maintainer: Dave1482 <thedave1482@gmail.com>
+Pre-Depends: firmware (>= 3.0), system-cmds, shell-cmds, coreutils
+Conflicts: com.dave1482.powerappbeta
+Filename: debs/com.dave1482.powerapp_4.3.1_iphoneos-arm.deb
+Size: 237812
+MD5sum: 19d158797c3c13647ca6ef59b182f3fe
+SHA1: 8ea54712b36a91062105beee36d16cbf29fe59ec
+SHA256: c608f2c44d034dbf88eb3e37acd206765a9c24f8873350df0223ccf491891833
+Section: Utilities
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
+Description: 重启,关机,注销,进入安全模式
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Dave1482 <dave1482@dave1482.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
+Dev: thedave1482
+Icon: file:///Applications/PowerApp.app/Icon.png
+Name: PowerApp
+

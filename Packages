@@ -231,3 +231,53 @@ Dev: thedave1482
 Icon: file:///Applications/PowerApp.app/Icon.png
 Name: PowerApp
 
+Package: com.julioverne.cracktool2
+Version: 2.3~beta9
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
+Filename: debs/com.julioverne.cracktool2_2.3~beta9_iphoneos-arm.deb
+Size: 432216
+MD5sum: b6232b142ca7f8a19a7bcd726a2aedb3
+SHA1: 34e60cb540b16677387a59b8ab3002f6c0fb37cf
+SHA256: d35ec02515f76976e332e77d9eb3e7559f23f7f227a018a7fcd249c82c629f66
+Section: Utilities
+Homepage: http://twitter.com/ijulioverne
+Description: Crack Tweaks on one click
+Author: julioverne
+Name: CrackTool2
+
+Package: com.julioverne.cracktool3
+Version: 3.0~beta11
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Filename: debs/com.julioverne.cracktool3_3.0~beta11_iphoneos-arm.deb
+Size: 165344
+MD5sum: 454aebaeb99805d2419c1a6672c75b17
+SHA1: 871a5696285d7fac46c213d5ed88ae7d4ffb8028
+SHA256: df4cfb79e237215fa1afe3e4ff42e74d6ac7a60cc6bc0740cb66205b7c7258c1
+Section: Utilities
+Homepage: http://twitter.com/ijulioverne
+Description: Crack Tweaks On 1 Touch. arm64. Any Issue Try Reinstall and/or Run CT3 In Safe Mode.
+Author: julioverne
+Name: CrackTool3 (iOS 11)
+
+Package: com.julioverne.cydown
+Version: 6.9.7
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Filename: debs/com.julioverne.cydown_6.9.7_iphoneos-arm.deb
+Size: 1085390
+MD5sum: 7e923c276b894da812f3e775df72ffb7
+SHA1: 20784e92651d049dbed0f3c4ccd5f6cf0b20bd17
+SHA256: 14cf3ce759e0820b955b65026445ad6bb761f2c95e5830996874b1a2f855163d
+Section: Tweaks
+Homepage: http://twitter.com/ijulioverne
+Description: Cydia Download Manager & Extra Features!
+Author: julioverne <julioverne@me.com>
+Depiction: http://julio.xarold.com/files-deb/cydown.html
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Name: CyDown
+

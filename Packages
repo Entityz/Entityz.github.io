@@ -281,6 +281,22 @@ Depiction: http://julio.xarold.com/files-deb/cydown.html
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown
 
+Package: com.spark.libsparkapplist
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Spark
+Installed-Size: 308
+Filename: debs/com.spark.libsparkapplist_1.0.1-1_iphoneos-arm.deb
+Size: 23540
+MD5sum: 3c1c417657019c111b3ad71f8ef4d27b
+SHA1: 325398ccb90f48d29906cf854e14cebc18e37d90
+SHA256: fe0235de66d8c8a4f76e21a299bd7cee06f52c4b0261bd6dea7ed6f841f50362
+Section: System
+Description: AppList alternative
+Tag: role::developer
+Author: Spark
+Name: libSparkAppList
+
 Package: xyz.willy.zebra
 Version: 1.0~beta3
 Architecture: iphoneos-arm

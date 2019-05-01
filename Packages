@@ -281,6 +281,23 @@ Depiction: http://julio.xarold.com/files-deb/cydown.html
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown
 
+Package: com.laughingquoll.prefixui
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Entity
+Installed-Size: 272
+Depends: org.thebigboss.libcolorpicker
+Filename: debs/com.laughingquoll.prefixui_1.0-1+debug_iphoneos-arm.deb
+Size: 42272
+MD5sum: c50e2a9a6a20b9ef5dc7899ba008dbfa
+SHA1: 4cee7a4c25db5cf520552a15dddcb743360f2bea
+SHA256: b4d877291b78e184ad28871ac0d15041cb12cb007a76cc0d2b56c6b9f159c20b
+Section: System
+Description: 某种令人敬畏的框架!!
+Tag: role::developer
+Author: LaughingQuoll
+Name: PrefixUI
+
 Package: com.midnightchips.bettersettings
 Version: 0.1.0
 Architecture: iphoneos-arm
@@ -296,6 +313,46 @@ Section: Tweaks
 Description: 个性化设置
 Author: midnightchips
 Name: BetterSettings
+
+Package: com.muirey03.libimagepicker
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Entity
+Installed-Size: 120
+Filename: debs/com.muirey03.libimagepicker_1.0.2_iphoneos-arm.deb
+Size: 12188
+MD5sum: 20207a2bf82ea30437ea54489f9684d0
+SHA1: ef29f0b223de5dd91b1627c7fc6970c3c4fef1ff
+SHA256: 1cc407e1aef8c1c0354355414897b74f49f3abedd91e75c6d960835d49d4a6b7
+Section: System
+Description: 一个简单的资源库,用于在 preferencebundles 中选择图像。
+Tag: role::developer
+Author: Muirey03
+Name: libimagepicker
+
+Package: com.opa334.ccsupport
+Version: 1.2-3
+Architecture: iphoneos-arm
+Maintainer: Entity
+Installed-Size: 203
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Provides: com.ioscreatix.silo
+Filename: debs/com.opa334.ccsupport_1.2-3_iphoneos-arm.deb
+Size: 35628
+MD5sum: 2ce79c2a1c237bb64082a2fecd3b6fe1
+SHA1: f523e8bfb860fcc70e239d7b724f041454eb1709
+SHA256: e8b3df63d652ed1e20fffeb01ca49a6b333c49895fa7c41a05d0815a68e0b6ae
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+Description: 支持调整 CC 模块!
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Author: opa334 <opa334@protonmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+Dev: opa334
+Name: CCSupport
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.sassoty.pulltorespring
 Version: 1.2

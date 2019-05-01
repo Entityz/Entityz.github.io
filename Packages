@@ -1,15 +1,15 @@
 Package: Flex3beta
 Version: 1:3~Beta52
 Architecture: iphoneos-arm
-Maintainer: John Coates
+Maintainer: Entity
 Depends: mobilesubstrate, firmware (>= 9.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
 Filename: debs/Flex3beta_1:3~Beta52_iphoneos-arm.deb
-Size: 24901954
-MD5sum: 1dd5836fe7be53d6b39de0fe8f97e17c
-SHA1: 827c252ad1f84e24fee06a492efe90f8d7379e6a
-SHA256: 4f45851d8fb5d81a9504d65553489065d792ae78fb092c149f2d832c7b261f5f
+Size: 17278500
+MD5sum: 3a162dea03ea7b8938ced02576614150
+SHA1: 7433a2bdd81badbd3a674f9e96b459c90cf44743
+SHA256: 77c3c33542b97a334a315e70d07819686b51c888fa0728a375ea574763488505
 Section: Tweaks
 Description: 开发自己的调整并在 Flex 社区云上共享它们
 Author: John Coates
@@ -19,15 +19,15 @@ Recommended: com.rpetrich.rocketbootstrap
 Package: Flex3beta
 Version: 1:3~Beta56
 Architecture: iphoneos-arm
-Maintainer: John Coates
+Maintainer: Entity
 Depends: mobilesubstrate, firmware (>= 9.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
 Filename: debs/Flex3beta_1:3~Beta56_iphoneos-arm.deb
-Size: 24907672
-MD5sum: 18bb76a51f80d9c8634a78cf7444afd2
-SHA1: 677c32d35e347307c2e640e45cd7216e05078be3
-SHA256: 04932e562c55fcd25bbfbd56b10d4ec1471f6941628437b3d68672a30ca53608
+Size: 17292808
+MD5sum: deeed70161342ff8a0e211516a374fa5
+SHA1: 82b44b7e0d9a699ec8d716aded5f74dbc7878e82
+SHA256: 25ceff6938f32f7c0c0833033b622d1ca2d8f7e8be8544c647f9f09a82f798ef
 Section: Tweaks
 Description: 开发自己的调整并在 Flex 社区云上共享它们
 Author: John Coates
@@ -37,15 +37,15 @@ Recommended: com.rpetrich.rocketbootstrap
 Package: Flex3beta
 Version: 1:3~Beta57
 Architecture: iphoneos-arm
-Maintainer: John Coates
+Maintainer: Entity
 Depends: mobilesubstrate, firmware (>= 9.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
 Filename: debs/Flex3beta_1:3~Beta57_iphoneos-arm.deb
-Size: 24910886
-MD5sum: d5ab9ae2ca78ba897797608904046e35
-SHA1: bf0561282676b98906cdfa8b1ec11d6289ccdb8b
-SHA256: 6e7b44b0b2a3c0fafd0159ef4af7fe4ded8d50fd6d892612cc4849b95e53586f
+Size: 17293660
+MD5sum: 491bfda55e0826d45435ee6493f02bf4
+SHA1: 7c8bb4d65e2dd8dc855418e442c8b98c66a23dd2
+SHA256: 36a5528528219a77172cc0736ec8e8c0992470e249a5ed01fcb3529d6643c58b
 Section: Tweaks
 Description: 开发自己的调整并在 Flex 社区云上共享它们
 Author: John Coates
@@ -55,15 +55,15 @@ Recommended: com.rpetrich.rocketbootstrap
 Package: Flex3beta
 Version: 1:3~Beta59
 Architecture: iphoneos-arm
-Maintainer: John Coates
+Maintainer: Entity
 Depends: mobilesubstrate, firmware (>= 9.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Filename: debs/Flex3beta_1:3~Beta59_iphoneos-arm.deb
-Size: 21095688
-MD5sum: ea99aed86f4010893ef6efc3454cb727
-SHA1: 742f70ccdd45d2ca2c303ec7f8c33131a6d5fd43
-SHA256: f094786185e43850c647a07a38826dda5c6bc506a25c9127b62e8d346b6b9fc3
+Size: 15325724
+MD5sum: 308d6a7b1534a0393a1daf8a1df900b0
+SHA1: 927d2256e461110d0b47f5e691cb74fb3b27a59c
+SHA256: f28956565ff09f368dc992b6d5956d0a21f6bfcd8007b63c577569274aa9ff0f
 Section: Tweaks
 Description: 开发自己的调整并在 Flex 社区云上共享它们
 Author: John Coates
@@ -73,15 +73,15 @@ Recommended: com.rpetrich.rocketbootstrap
 Package: Flex3beta
 Version: 1:3~Beta60
 Architecture: iphoneos-arm
-Maintainer: John Coates
+Maintainer: Entity
 Depends: mobilesubstrate, firmware (>= 9.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Filename: debs/Flex3beta_1:3~Beta60_iphoneos-arm.deb
-Size: 21096610
-MD5sum: 526125f78c1d85d904e53163e6b8d9f8
-SHA1: c01ba9b772c4ceab7c88495e0ba9652d9798dd01
-SHA256: 1c778b82831fcbb9f2dacc878c17c52809ea238c13372974063eaf73fcf95733
+Size: 15321412
+MD5sum: 66653741bfa832152e8decbb6be0de82
+SHA1: 359a74495869fd4029b37c4b7a947a506e7582e3
+SHA256: 59cd7696d8ca172e334f2a8a38915be0e8514f5e5af9c519287918c125061b14
 Section: Tweaks
 Description: 开发自己的调整并在 Flex 社区云上共享它们
 Author: John Coates
@@ -91,15 +91,15 @@ Recommended: com.rpetrich.rocketbootstrap
 Package: Flex3beta
 Version: 1:3~Beta61
 Architecture: iphoneos-arm
-Maintainer: John Coates
+Maintainer: Entity
 Depends: mobilesubstrate, firmware (>= 9.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Filename: debs/Flex3beta_1:3~Beta61_iphoneos-arm.deb
-Size: 21258974
-MD5sum: b553ca113e3699615b36cd4c7f64ccbe
-SHA1: 22dc261306cc1f7d73bd6a1045c97d1ebc84f415
-SHA256: 95af4ab6a890fc647c722ef2a1980b3a5e7263d6771cd931ff3b71988f54633e
+Size: 15433420
+MD5sum: 35fccffb16c1280bf15eca0af5b805e3
+SHA1: 299e4a5a47adc0355797f21691cba2c94f5aed83
+SHA256: bf507c14a11da4c17e12b60566be8acae174fcee668a60ea963c78046aa68ba5
 Section: Tweaks
 Description: 开发自己的调整并在 Flex 社区云上共享它们
 Author: John Coates
@@ -109,15 +109,15 @@ Recommended: com.rpetrich.rocketbootstrap
 Package: Flex3beta
 Version: 1:3~Beta62
 Architecture: iphoneos-arm
-Maintainer: John Coates
+Maintainer: Entity
 Depends: mobilesubstrate, firmware (>= 9.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Filename: debs/Flex3beta_1:3~Beta62_iphoneos-arm.deb
-Size: 21260104
-MD5sum: f799a7f6d3449edc6e5db461557fefab
-SHA1: e607baeef48629ddca73c392238f6f10b9a20868
-SHA256: 4478f38404d8d73d725adaaadcd5ba0b399ecf4f241b615b48990d9148ce1253
+Size: 15433652
+MD5sum: abb64e21f2285e4c2e3afac2e740302d
+SHA1: 5109440770401b2dee6c8b2a838aa5285b5a4889
+SHA256: d7c8755e5b319883e74433d2a13bbfb50d51d4f153d5ae0e4df73b7ce2c60673
 Section: Tweaks
 Description: 开发自己的调整并在 Flex 社区云上共享它们
 Author: John Coates
@@ -127,15 +127,15 @@ Recommended: com.rpetrich.rocketbootstrap
 Package: com.dave1482.powerapp
 Version: 4.1.1
 Architecture: iphoneos-arm
-Maintainer: Dave1482 <thedave1482@gmail.com>
+Maintainer: Entity
 Installed-Size: 1315
 Depends: firmware (>= 3.0), system-cmds, shell-cmds, coreutils
 Conflicts: com.dave1482.powerappbeta
 Filename: debs/com.dave1482.powerapp_4.1.1_iphoneos-arm.deb
-Size: 258354
-MD5sum: d8cae8a8878734e4c007bca6601699df
-SHA1: fc319255cc1b2b67ed1222ad7cffa314fba90dfc
-SHA256: c0a90f2f824ca063fb633ca4a41f064951071008798e4ee81dd47e17d1a47445
+Size: 155440
+MD5sum: ea76dbc27f9ad421c44e529fa93ebb65
+SHA1: 2a626362deee2017ff5da0581d665bfea854be61
+SHA256: f361f0bca6094687103ca4446fa2012cc528fb5fa95bd7274eaf223c8780d89b
 Section: Utilities
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
 Description: 重启,关机,注销,进入安全模式
@@ -149,15 +149,15 @@ Name: PowerApp
 Package: com.dave1482.powerapp
 Version: 4.1.2
 Architecture: iphoneos-arm
-Maintainer: Dave1482 <thedave1482@gmail.com>
+Maintainer: Entity
 Installed-Size: 1312
 Depends: firmware (>= 3.0), system-cmds, shell-cmds, coreutils
 Conflicts: com.dave1482.powerappbeta
 Filename: debs/com.dave1482.powerapp_4.1.2_iphoneos-arm.deb
-Size: 254312
-MD5sum: 44489cae75ce86944e40a4be67af09fe
-SHA1: 494857a5e07ccc12ce411e2caacd63978ea94a30
-SHA256: ea7cb1f43e7fc1402b8739663f3650fa6db89134f5007466330b5c7cbfd4825b
+Size: 155100
+MD5sum: 1e3768479e3cab31e7718868d615a099
+SHA1: 455cd911be7cb297cda250c11c03532effb41ce6
+SHA256: 440ccf8fd7b896e6a98b3c19babd146ecb66254d9f03f608d0aba2c6e3a3012f
 Section: Utilities
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
 Description: 重启,关机,注销,进入安全模式
@@ -171,14 +171,14 @@ Name: PowerApp
 Package: com.dave1482.powerapp
 Version: 4.2
 Architecture: iphoneos-arm
-Maintainer: Dave1482 <thedave1482@gmail.com>
+Maintainer: Entity
 Depends: firmware (>= 3.0), system-cmds, shell-cmds, coreutils
 Conflicts: com.dave1482.powerappbeta
 Filename: debs/com.dave1482.powerapp_4.2_iphoneos-arm.deb
-Size: 259392
-MD5sum: 307038b3babdbad824092837ccb2600c
-SHA1: 370b4dc8b3420dae7ba84879c3c15dfbbf988eea
-SHA256: 20ff0ce043f2f674a5e8fefc12ba38f9ac0a8829b0990eeb48a152c179a860c1
+Size: 158380
+MD5sum: 478939f94518f994836dc395e287edc8
+SHA1: f74b42abc6e602633f47044e46e0c068ea06ae50
+SHA256: 335c590184fd7731523a7cf5cd0af8897b9dd136ab7691f8d2426266d7d074c3
 Section: Utilities
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
 Description: 重启,关机,注销,进入安全模式
@@ -192,14 +192,14 @@ Name: PowerApp
 Package: com.dave1482.powerapp
 Version: 4.3.0
 Architecture: iphoneos-arm
-Maintainer: Dave1482 <thedave1482@gmail.com>
+Maintainer: Entity
 Pre-Depends: firmware (>= 3.0), system-cmds, shell-cmds, coreutils
 Conflicts: com.dave1482.powerappbeta
 Filename: debs/com.dave1482.powerapp_4.3.0_iphoneos-arm.deb
-Size: 230734
-MD5sum: 6f8515f6c0b38491144f8cfaefa0855b
-SHA1: 03e6542104c791a0be5dacaea589f9a8b8fc1ed2
-SHA256: 500b5b91f17bdaacc9b491a5e5665304c41787c610a59a8cce7837632233bd9f
+Size: 163224
+MD5sum: 4995e889f12b138b6edc23cccd5e4d43
+SHA1: 3191d0ec5f47da74003cbffc82bedd9e5bca4422
+SHA256: 595b386ce405de6bece043546cdda290ddebb7a6ca6250e05cb9d233249ddcc2
 Section: Utilities
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
 Description: 重启,关机,注销,进入安全模式
@@ -213,14 +213,14 @@ Name: PowerApp
 Package: com.dave1482.powerapp
 Version: 4.3.1
 Architecture: iphoneos-arm
-Maintainer: Dave1482 <thedave1482@gmail.com>
+Maintainer: Entity
 Pre-Depends: firmware (>= 3.0), system-cmds, shell-cmds, coreutils
 Conflicts: com.dave1482.powerappbeta
 Filename: debs/com.dave1482.powerapp_4.3.1_iphoneos-arm.deb
-Size: 237812
-MD5sum: 19d158797c3c13647ca6ef59b182f3fe
-SHA1: 8ea54712b36a91062105beee36d16cbf29fe59ec
-SHA256: c608f2c44d034dbf88eb3e37acd206765a9c24f8873350df0223ccf491891833
+Size: 166336
+MD5sum: 5448b55c45f1d41a2fe9b06efe9a95fc
+SHA1: 444622b73003cfd2a3888d091a66de52afbd6fee
+SHA256: 0dcaff371c8a6f6d2a52df5e5a2ef898ac4b591df282713f5943d26e686247f5
 Section: Utilities
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
 Description: 重启,关机,注销,进入安全模式
@@ -234,65 +234,86 @@ Name: PowerApp
 Package: com.julioverne.cracktool2
 Version: 2.3~beta9
 Architecture: iphoneos-arm
-Maintainer: Julio
+Maintainer: Entity
 Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
 Filename: debs/com.julioverne.cracktool2_2.3~beta9_iphoneos-arm.deb
-Size: 432216
-MD5sum: b6232b142ca7f8a19a7bcd726a2aedb3
-SHA1: 34e60cb540b16677387a59b8ab3002f6c0fb37cf
-SHA256: d35ec02515f76976e332e77d9eb3e7559f23f7f227a018a7fcd249c82c629f66
+Size: 357208
+MD5sum: 872a84d56a411b376550845f0ed47963
+SHA1: 6ddba3a4c872cca1d370d276960667c187652fec
+SHA256: 03bab358b620bbac31cd8ca9cf30b3dc3b3e8a967cfa091497d53ea5610c47a5
 Section: Utilities
 Homepage: http://twitter.com/ijulioverne
-Description: Crack Tweaks on one click
+Description: 点击一下就可以破解调整
 Author: julioverne
 Name: CrackTool2
 
 Package: com.julioverne.cracktool3
 Version: 3.0~beta11
 Architecture: iphoneos-arm
-Maintainer: Julio
+Maintainer: Entity
 Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
 Filename: debs/com.julioverne.cracktool3_3.0~beta11_iphoneos-arm.deb
-Size: 165344
-MD5sum: 454aebaeb99805d2419c1a6672c75b17
-SHA1: 871a5696285d7fac46c213d5ed88ae7d4ffb8028
-SHA256: df4cfb79e237215fa1afe3e4ff42e74d6ac7a60cc6bc0740cb66205b7c7258c1
+Size: 143556
+MD5sum: 79d536494f834945492d865113ddf48b
+SHA1: d43a56e025956f08bea0ed812c0224de51317267
+SHA256: 3a5c6bc2a93e90c77d73a3b5e133bfa70f4ad0dfcdb46258b11705f824ec4eff
 Section: Utilities
 Homepage: http://twitter.com/ijulioverne
-Description: Crack Tweaks On 1 Touch. arm64. Any Issue Try Reinstall and/or Run CT3 In Safe Mode.
+Description: 一键式破解调整。arm64。任何问题都尝试在安全模式下重新安装或运行CT3。
 Author: julioverne
 Name: CrackTool3 (iOS 11)
 
 Package: com.julioverne.cydown
 Version: 6.9.7
 Architecture: iphoneos-arm
-Maintainer: Julio
+Maintainer: Entity
 Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
 Filename: debs/com.julioverne.cydown_6.9.7_iphoneos-arm.deb
-Size: 1085390
-MD5sum: 7e923c276b894da812f3e775df72ffb7
-SHA1: 20784e92651d049dbed0f3c4ccd5f6cf0b20bd17
-SHA256: 14cf3ce759e0820b955b65026445ad6bb761f2c95e5830996874b1a2f855163d
+Size: 1084140
+MD5sum: 6c3a9484fc90d1be81565a2688a08d6d
+SHA1: 6f35b25b07546eb27f7df39abe519c9dfed05235
+SHA256: 335334c7f7d3969d09bd912557dfbea3afd0f878f20f3055315d7a3fe06e8a98
 Section: Tweaks
 Homepage: http://twitter.com/ijulioverne
-Description: Cydia Download Manager & Extra Features!
+Description: Cydia 下载管理器 & 额外功能 !
 Author: julioverne <julioverne@me.com>
 Depiction: http://julio.xarold.com/files-deb/cydown.html
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown
 
+Package: com.sassoty.pulltorespring
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Entity
+Installed-Size: 144
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), preferenceloader
+Filename: debs/com.sassoty.pulltorespring_1.2_iphoneos-arm.deb
+Size: 15624
+MD5sum: a78134f2573abe0329ebf31f68b6ff0b
+SHA1: a1a251dc40199957fc22569a4735a0cd63da5bb5
+SHA256: 3e73e59d82bf75bb2113e09141cf6204a00d8be96667e7efe40b0059a38e7aa4
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=pulltorespringDp
+Description: 在设置下拉以注销
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Author: Noah Saso <noahsaso@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=pulltorespringDp
+Dev: sassoty
+Icon: file:///Library/PreferenceLoader/Preferences/PullToRespring@2x.png
+Name: PullToRespring
+
 Package: com.spark.libsparkapplist
 Version: 1.0.1-1
 Architecture: iphoneos-arm
-Maintainer: Spark
+Maintainer: Entity
 Installed-Size: 308
 Filename: debs/com.spark.libsparkapplist_1.0.1-1_iphoneos-arm.deb
-Size: 23540
-MD5sum: 3c1c417657019c111b3ad71f8ef4d27b
-SHA1: 325398ccb90f48d29906cf854e14cebc18e37d90
-SHA256: fe0235de66d8c8a4f76e21a299bd7cee06f52c4b0261bd6dea7ed6f841f50362
+Size: 23644
+MD5sum: a49eb5300dc183379ffbbb0c93a4fe9f
+SHA1: 9c4d9b81ca8b259d7f2fa9809218c14b9d7877f5
+SHA256: b9faf8ddc4b4232959890b53a3534481aa188d45c6191822975dba96a925b227
 Section: System
-Description: AppList alternative
+Description: AppList 替代方案
 Tag: role::developer
 Author: Spark
 Name: libSparkAppList
@@ -300,16 +321,16 @@ Name: libSparkAppList
 Package: xyz.willy.zebra
 Version: 1.0~beta3
 Architecture: iphoneos-arm
-Maintainer: Wilson Styres <wilson@styres.me>
+Maintainer: Entity
 Installed-Size: 3296
 Depends: dpkg
 Filename: debs/xyz.willy.zebra_1.0~beta3_iphoneos-arm.deb
-Size: 852826
-MD5sum: 0b54b780ef012168598256339f84b6c5
-SHA1: 4037c7e5c4709f04131d29d240b257adee0e469b
-SHA256: 3226da045cc6e05600a357ae74d41680eff3ceb22b761ef465bb3de0b56ee9ac
+Size: 852600
+MD5sum: 88698f301414dc14d3a3df2eeb0e6fe3
+SHA1: f29efbcce7fe46f5e3b62c72ce1084cb2ebdfa44
+SHA256: 6db1b04e8ab88c1733e77c5337e5f7f55aed6c72896ca0cbadc7ee49e438d807
 Section: Packaging
-Description: A Useful Package Manager
+Description: 一个简约的包管理器
 Tag: purpose::x
 Author: Wilson Styres <wilson@styres.me>
 Depiction: https://xtm3x.github.io/repo/depictions/xyz.willy.zebra/

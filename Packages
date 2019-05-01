@@ -281,6 +281,22 @@ Depiction: http://julio.xarold.com/files-deb/cydown.html
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown
 
+Package: com.midnightchips.bettersettings
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: Entity
+Installed-Size: 1836
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker
+Filename: debs/com.midnightchips.bettersettings_0.1.0_iphoneos-arm.deb
+Size: 1229028
+MD5sum: 5c035c3cd84abeee23cf2dced9f7765d
+SHA1: 071f3a5ea2a401be528ef280d8c7e9297b2c6867
+SHA256: ab7d9da088ca5f03eb57cfb73f2193a82315c87e6ca849b9c054c47c22afcf42
+Section: Tweaks
+Description: 个性化设置
+Author: midnightchips
+Name: BetterSettings
+
 Package: com.sassoty.pulltorespring
 Version: 1.2
 Architecture: iphoneos-arm

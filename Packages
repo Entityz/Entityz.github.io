@@ -124,6 +124,25 @@ Author: John Coates
 Name: Flex 3 Beta
 Recommended: com.rpetrich.rocketbootstrap
 
+Package: com.bingner.plutil
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: Entity
+Installed-Size: 256
+Depends: firmware (>=2.0)
+Conflicts: com.ericasadun.utilities
+Filename: debs/com.bingner.plutil_0.1.0_iphoneos-arm.deb
+Size: 48340
+MD5sum: a0c02443dcbd00b3bd1da53ac3d0518c
+SHA1: 575e6c225c8b2de72169a34d0e744106e23ad753
+SHA256: 0509c24fb99ae85273edab54c9524c1e7f5a680642a27d207fdde51c165eb97c
+Section: System
+Multi-Arch: foreign
+Description: plutil 来自 erica sadun
+Tag: role::hacker
+Author: Samuel Bingner
+Name: plutil
+
 Package: com.conorthedev.chrono
 Version: 1.1
 Architecture: iphoneos-arm

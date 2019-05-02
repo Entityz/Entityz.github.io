@@ -298,6 +298,23 @@ Tag: role::developer
 Author: LaughingQuoll
 Name: PrefixUI
 
+Package: com.laughingquoll.prefixui
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Entity
+Installed-Size: 172
+Depends: org.thebigboss.libcolorpicker
+Filename: debs/com.laughingquoll.prefixui_1.2_iphoneos-arm.deb
+Size: 23288
+MD5sum: 3003ef0da8deb250139909cae7807b7b
+SHA1: badc02ce0d485ced3dfaab59646e1b18c6d3357e
+SHA256: b5077986ae849509699802106cc9a694cb85c23e0789a6f86c1cde3cfb5f7a5c
+Section: System
+Description: 某种令人敬畏的框架!!
+Tag: role::developer
+Author: LaughingQuoll
+Name: PrefixUI
+
 Package: com.midnightchips.bettersettings
 Version: 0.1.0
 Architecture: iphoneos-arm
@@ -341,9 +358,9 @@ Replaces: com.ioscreatix.silo
 Provides: com.ioscreatix.silo
 Filename: debs/com.opa334.ccsupport_1.2-3_iphoneos-arm.deb
 Size: 35628
-MD5sum: 2ce79c2a1c237bb64082a2fecd3b6fe1
-SHA1: f523e8bfb860fcc70e239d7b724f041454eb1709
-SHA256: e8b3df63d652ed1e20fffeb01ca49a6b333c49895fa7c41a05d0815a68e0b6ae
+MD5sum: d6925e692ab468eba4e5312ab46c69cf
+SHA1: 03d25949550f6f3a092b9383b278eff4a840430b
+SHA256: 87a0ffddabe9f30e451dfbd44e9c1cd3f1c58fb2d4a1a6270a372978077f707a
 Section: Tweaks
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
 Description: 支持调整 CC 模块!
@@ -390,6 +407,22 @@ Description: AppList 替代方案
 Tag: role::developer
 Author: Spark
 Name: libSparkAppList
+
+Package: me.tomt000.copylog
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Entity
+Installed-Size: 2232
+Depends: mobilesubstrate
+Filename: debs/me.tomt000.copylog_1.1.1_iphoneos-arm.deb
+Size: 692584
+MD5sum: a9951e4b03c38dee2c7614056c870231
+SHA1: cb46c4d507494bd69b8d855f225c36d67457f95f
+SHA256: bc4c79904a444d7705da9fc6a5a490378016f051562bdc6a4e5e649d8a93975f
+Section: Tweaks
+Description: iOS 的剪贴板历史记录管理器!
+Author: TomT000
+Name: CopyLog
 
 Package: org.thebigboss.libcolorpicker
 Version: 1.6-1

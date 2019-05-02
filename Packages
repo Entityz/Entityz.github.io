@@ -482,6 +482,25 @@ Description: iOS 的剪贴板历史记录管理器!
 Author: TomT000
 Name: CopyLog
 
+Package: net.tetherme.tetherme8
+Version: 1.2.3~arm64e-1
+Architecture: iphoneos-arm
+Maintainer: Entity
+Installed-Size: 2300
+Pre-Depends: mobilesubstrate (>= 0.9.5101)
+Depends: firmware (>= 8.0), preferenceloader (>= 2.2.2), firmware (>= 11.0) | network-cmds
+Conflicts: net.tetherme.tetherme
+Replaces: net.tetherme.tetherme
+Filename: debs/net.tetherme.tetherme8_1.2.3~arm64e-1_iphoneos-arm.deb
+Size: 80320
+MD5sum: e004e04b4b2f38e69e14f4148bbae39c
+SHA1: 9ca0f806a32149d7557ee76f204c2a66c2a8c248
+SHA256: 2a5b7a4cc98ac21c77b2122ebfd0966fdea319cdf014cd599eeb92d27c97f786
+Section: Networking
+Description: 动态启用 iOS8 + 设备的本机网络共享。这应该适用于任何运营商而无需定制捆绑或首选项。
+Depiction: http://repo.tetherme.net/net.tetherme.tetherme8.html
+Name: TetherMe for iOS8+
+
 Package: org.thebigboss.libcolorpicker
 Version: 1.6-1
 Architecture: iphoneos-arm

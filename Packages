@@ -143,6 +143,28 @@ Tag: role::hacker
 Author: Samuel Bingner
 Name: plutil
 
+Package: com.brunonfl.wicellswitcher
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Entity
+Installed-Size: 562
+Depends: firmware(>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), ws.hbang.common (>= 1.11)
+Filename: debs/com.brunonfl.wicellswitcher_1.0_iphoneos-arm.deb
+Size: 122544
+MD5sum: 669783d3c7ac383466780c103f78f9c6
+SHA1: 7984682a1919a420257a0bfc5db9b7b0d37ad00e
+SHA256: bd7c71637506b3315a3b60e7d36d73b394b48e2603041dd77b44e687681c37c5
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wicellswitcherDp
+Description: 以智能方式在 Wi-Fi 和 蜂窝移动网络 之间切换！
+Tag: purpose::extension, compatible::ios12
+Author: Bruno Andrade <brubiluco@globo.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wicellswitcherDp
+Dev: brunonfl
+Icon: file:///Library/PreferenceBundles/WiCellSwitcherPrefs.bundle/WiCellSwitcher.png
+Name: WiCellSwitcher
+Sileodepiction: https://brunonfl.github.io/depictions/com.brunonfl.wicellswitcher/SileoDepiction.json
+
 Package: com.conorthedev.chrono
 Version: 1.1
 Architecture: iphoneos-arm
@@ -289,6 +311,24 @@ Dev: thedave1482
 Icon: file:///Applications/PowerApp.app/Icon.png
 Name: PowerApp
 
+Package: com.ichitaso.notifywifix
+Version: 1.0.0k
+Architecture: iphoneos-arm
+Maintainer: Entity
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.notifywifi, com.ichitaso.notifywifi7, com.ichitaso.notifywifi10, com.giorgioiavicoli.passby, com.julioverne.goodwifi, com.hackyouriphone.notifywifi10
+Filename: debs/com.ichitaso.notifywifix_1.0.0k_iphoneos-arm.deb
+Size: 294136
+MD5sum: 5f8229fa7469de971e953cf97b26b3f1
+SHA1: 6c39406f088e94a4b077294dc0d234c21d6fa24e
+SHA256: 4e6c3b0ae10a40969c7ad0b79f3dd0ca53e291110d3a581fd08455a65b1ab1ac
+Section: Tweaks
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=notifywifix
+Description: 适用于 iOS 10 到 12 的 Wi-Fi 变更通知管理器
+Author: ichitaso <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=notifywifix
+Name: NotifyWiFi X
+
 Package: com.julioverne.cracktool2
 Version: 2.3~beta9
 Architecture: iphoneos-arm
@@ -405,6 +445,22 @@ Tag: role::developer
 Author: Muirey03
 Name: libimagepicker
 
+Package: com.muirey03.libimagepicker
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Muirey03
+Installed-Size: 196
+Filename: debs/com.muirey03.libimagepicker_1.0.3_iphoneos-arm.deb
+Size: 14060
+MD5sum: d39d023df7711e7c314bc27eb1a72166
+SHA1: 956ae603656eb51100324537a92058d76b0bb8d0
+SHA256: a7506b23f2af5a12e9aa73c86a267e360db644b8e66d0eca2afa6822d02fdae1
+Section: System
+Description: A simple library for choosing images in preference bundles.
+Tag: role::developer
+Author: Muirey03
+Name: libimagepicker
+
 Package: com.nan.openccmm
 Version: 0.1.0
 Architecture: iphoneos-arm
@@ -513,6 +569,22 @@ Description: AppList 替代方案
 Tag: role::developer
 Author: Spark
 Name: libSparkAppList
+
+Package: me.nepeta.swipeshot
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: Entity
+Installed-Size: 264
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: debs/me.nepeta.swipeshot_0.1.0_iphoneos-arm.deb
+Size: 15512
+MD5sum: 95596765958e643bee2225c0e12684c3
+SHA1: 45a263406f65df664fce3ebe56190327571ca3c5
+SHA256: fa614234705f13614082e5900fdef5d28d8aac2cdf8867f67669d0563c87276e
+Section: Tweaks
+Description: 通过一次用三根手指从状态栏向下滑动来截取屏幕截图。
+Author: Nepeta
+Name: Swipeshot
 
 Package: me.tomt000.copylog
 Version: 1.1.1

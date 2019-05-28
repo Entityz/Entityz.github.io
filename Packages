@@ -383,6 +383,21 @@ Depiction: http://modmyi.com/info/ericautilities.d.php
 Name: Erica Utilities
 Sponsor: ModMyi.com <http://modmyi.com>
 
+Package: com.flex2areo.disablealerts2
+Version: 2.3.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate
+Filename: debs/com.flex2areo.disablealerts2_2.3.0_iphoneos-arm.deb
+Size: 17392
+MD5sum: a2d867abccbb303f4fc84654514c16cb
+SHA1: 382a7c4c13cb4e946f9cea5c05476f41ae664c12
+SHA256: 3fcb8348748806e769917ac5c5bf41cefff7b201153999d830eb2c45e45d1269
+Section: Tweaks
+Description: 屏蔽弹窗神器
+Author: aReo
+Name: DisableAlerts
+
 Package: com.ichitaso.notifywifix
 Version: 1.0.0k
 Architecture: iphoneos-arm

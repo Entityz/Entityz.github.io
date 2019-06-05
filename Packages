@@ -632,6 +632,43 @@ Author: zhaonan
 Icon: file:///Applications/Sileo.app/AppIcon60x60@2x.png
 Name: Sileo 汉化
 
+Package: com.nan.theme.aential
+Version: 0.1.0
+Architecture: all
+Maintainer: zhaonan
+Filename: debs/com.nan.theme.aential_0.1.0_all.deb
+Size: 1870518
+MD5sum: cef17fa2fb08067bb782f90f0105edb0
+SHA1: f27e3bdf2230ae922ae6dd97a1c85a2170716647
+SHA256: 0833f88e5fb90007b24a8e0e2ca62cd79500a4053c61b7132d665816127a4804
+Section: Themes
+Description: 感谢 Alessandro Chiarlitti 发布的 Sential
+ ====================
+ Aentia 完全在 Sential 的基础上按个人爱好修改
+ 希望使用的支持 Sential
+ ====================
+Author: zhaonan
+Name: Aential
+
+Package: com.nan.theme.aential
+Version: 0.1.1
+Architecture: all
+Maintainer: zhaonan
+Filename: debs/com.nan.theme.aential_0.1.1_all.deb
+Size: 1789408
+MD5sum: a528895a7b5d01de6c1b8bc9462db262
+SHA1: c190c8ccbdc99e498ef161a1548b8baff933ab09
+SHA256: 4d10d2700b42f9849dcd778bed527ea1572c4327ad8a7af9b4d1389ca63dd221
+Section: Themes
+Description: 感谢 Alessandro Chiarlitti 发布的 Sential
+ ====================
+ Aentia 完全在 Sential 的基础上按个人爱好修改
+ 也有自己添加一些图标
+ 希望使用的支持 Sential
+ ====================
+Author: zhaonan
+Name: Aential
+
 Package: com.opa334.ccsupport
 Version: 1.2-3
 Architecture: iphoneos-arm

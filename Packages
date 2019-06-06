@@ -466,6 +466,23 @@ Depiction: http://julio.xarold.com/files-deb/cydown.html
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown
 
+Package: com.laughingquoll.noctis12
+Version: 1.6.6
+Architecture: iphoneos-arm
+Maintainer: Entity
+Installed-Size: 1680
+Depends: mobilesubstrate, preferenceloader, me.nepeta.libcolorpicker, com.laughingquoll.prefixui, com.spark.libsparkapplist, com.opa334.ccsupport, com.rpetrich.rocketbootstrap
+Conflicts: com.laughingquoll.noctisxi
+Filename: debs/com.laughingquoll.noctis12_1.6.6_iphoneos-arm.deb
+Size: 244388
+MD5sum: 7d9d5909f5a1bb4905968bf095735920
+SHA1: 6adffa86672ab860582068d5474ea28019cb3fcb
+SHA256: d00afc92aeab8cc8d1f1222e64ec6e90928160a6ec4297e53e74a0608eb27b33
+Section: Tweaks
+Description: Noctis12 - 适用于 iOS 的系统级黑暗模式
+Author: LaughingQuoll
+Name: Noctis12
+
 Package: com.laughingquoll.prefixui
 Version: 1.0-1+debug
 Architecture: iphoneos-arm
@@ -751,6 +768,28 @@ Tag: role::developer
 Author: Spark
 Name: libSparkAppList
 
+Package: crash-reporter
+Version: 1.16.0-1
+Architecture: iphoneos-arm
+Maintainer: Entity
+Installed-Size: 1460
+Pre-Depends: firmware (>=4.0)
+Depends: coreutils, dpkg, grep, jp.ashikase.libcrashreport (>= 1.1.0), jp.ashikase.libpackageinfo (>= 1.1.0), jp.ashikase.techsupport (>= 1.5.0), mobilesubstrate, preferenceloader
+Filename: debs/crash-reporter_1.16.0-1_iphoneos-arm.deb
+Size: 253200
+MD5sum: 9c5bdda00bbdd03816445e5e86a7da8f
+SHA1: b8014a34f4aee043884821548bec1dd1a85326a8
+SHA256: 3b0a5c457272a50150ee6ee98098a8f2342c8b2fd532b029a7511f49fd15403d
+Section: System
+Homepage: http://github/ashikase/CrashReporter/
+Description: 向开发人员发送有用的崩溃信息。
+Tag: purpose::uikit, role::enduser
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=crashreporterData
+Dev: ashikase
+Name: CrashReporter
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: diskdev-cmds
 Version: 593-1
 Architecture: iphoneos-arm
@@ -766,6 +805,51 @@ Section: System
 Priority: required
 Description: mount, quota, fsck, fstyp, fdisk, tunefs
 Tag: purpose::console, role::hacker
+
+Package: jp.ashikase.libcrashreport
+Version: 1.1.0-1
+Architecture: iphoneos-arm
+Maintainer: Entity
+Installed-Size: 196
+Pre-Depends: firmware (>= 3.0)
+Depends: jp.ashikase.libsymbolicate (>= 1.9.0), jp.ashikase.libpackageinfo
+Filename: debs/jp.ashikase.libcrashreport_1.1.0-1_iphoneos-arm.deb
+Size: 30968
+MD5sum: 42d67e28482cf25ea4baea71a103a862
+SHA1: 15def7ef73546da04d6745f5beda8a23d4b3c07c
+SHA256: 951f9a2089d38108a644d82d414ec65bdf01615f71143340adc8ef84b7237aa6
+Section: Development
+Homepage: http://github.com/ashikase/libcrashreport
+Description: Library to parse and symbolicate crash reports.
+    This library is based upon CrashReporter by kennytm.
+Tag: role::developer
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcrashreportData
+Dev: ashikase
+Name: libcrashreport
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: jp.ashikase.libsymbolicate
+Version: 1.9.0-1
+Architecture: iphoneos-arm
+Maintainer: Entity
+Installed-Size: 200
+Pre-Depends: firmware (>=4.0)
+Filename: debs/jp.ashikase.libsymbolicate_1.9.0-1_iphoneos-arm.deb
+Size: 25376
+MD5sum: 62b29c852cd077de1e9b8239c3ba2975
+SHA1: 33362ec8ccd9918694bbb8ffe9a862f208688f41
+SHA256: c22b0c5ed6be2571b86bb07cd7a4246b3b0c5021233b57f6bfe3c77e11579360
+Section: Development
+Homepage: http://github.com/ashikase/libsymbolicate
+Description: Library to symbolicate memory addresses.
+    This library is based upon CrashReporter by kennytm.
+Tag: role::developer
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsymbolicateData
+Dev: ashikase
+Name: libsymbolicate
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: ldid
 Version: 2:3.0-coolstar2

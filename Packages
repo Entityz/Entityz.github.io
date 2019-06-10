@@ -534,6 +534,52 @@ Tag: role::developer
 Author: LaughingQuoll
 Name: PrefixUI
 
+Package: com.michael.snappy
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Entity
+Depends: firmware (>= 10.3)
+Conflicts: com.bingner.snappy
+Replaces: com.bingner.snappy
+Provides: com.bingner.snappy
+Filename: debs/com.michael.snappy_1.2_iphoneos-arm.deb
+Size: 10148
+MD5sum: abb13eb36b8b434c931db455b426dff9
+SHA1: 18729c4fc192cec2e8ae4babb520a5494d0f4792
+SHA256: 415fafb28a47c1ae44ffd984d18978033a75a97d24d958e8ce2e45ba3e27b245
+Section: System
+Description: APFS 快照管理工具
+ ====================
+ (删除了在 iOS 上禁用 revent 限制)
+ 由金手指修改
+ ====================
+Tag: role::hacker
+Author: Sam Bingner <snappy@bingner.com>
+Name: Snappy
+
+Package: com.michael.snappy
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Entity
+Depends: firmware (>= 10.3)
+Conflicts: com.bingner.snappy
+Replaces: com.bingner.snappy
+Provides: com.bingner.snappy
+Filename: debs/com.michael.snappy_1.3_iphoneos-arm.deb
+Size: 11692
+MD5sum: 81a4d83415825efe52d4858fddface05
+SHA1: 07e3d098ab4c6a9b0feefa9f50faa09b202417fd
+SHA256: ff5bfe0d6293e98f5ac4412336dde5069c2749324b0e964ce3cd0b59e841b341
+Section: System
+Description: APFS 快照管理工具
+ ====================
+ (删除了在 iOS 上禁用 revent 限制)
+ 由金手指修改
+ ====================
+Tag: role::hacker
+Author: Sam Bingner <snappy@bingner.com>
+Name: Snappy
+
 Package: com.midnightchips.bettersettings
 Version: 0.1.0
 Architecture: iphoneos-arm
@@ -600,6 +646,28 @@ Description: A simple library for choosing images in preference bundles.
 Tag: role::developer
 Author: Muirey03
 Name: libimagepicker
+
+Package: com.nan.ft
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: Entity
+Depends: firmware (>= 10.3)
+Filename: debs/com.nan.ft_0.1.0_iphoneos-arm.deb
+Size: 1932
+MD5sum: 181f8f0e7396159bed1e2a73e4e5b457
+SHA1: 8d3b1a8aa36365ef4298d157d41759e855c5f091
+SHA256: c2c8ae201712c17d4198dc36d2a8604ddb6ec997c9a2f445544b7283db318f29
+Section: Terminal_Support
+Description: 安装后在 Terminal 运行 ft
+ ====================
+ 用于给没备份 Fonts 的人恢复自带的 Fonts
+ ====================
+ 不支持没有快照的 HFS (10.3-)
+ 不支持金手指的 TimeMaachine (现在懒得改)
+ 10.3-11.2.5 可以用 SnapBack 或者 Snappy 创建快照 orig-fs
+ ====================
+Author: zhaonan <Invalidunit@icloud.com>
+Name: ft
 
 Package: com.nan.openccmm
 Version: 0.1.0

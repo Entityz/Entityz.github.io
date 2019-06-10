@@ -647,28 +647,6 @@ Tag: role::developer
 Author: Muirey03
 Name: libimagepicker
 
-Package: com.nan.ft
-Version: 0.1.0
-Architecture: iphoneos-arm
-Maintainer: Entity
-Depends: firmware (>= 10.3)
-Filename: debs/com.nan.ft_0.1.0_iphoneos-arm.deb
-Size: 1932
-MD5sum: 181f8f0e7396159bed1e2a73e4e5b457
-SHA1: 8d3b1a8aa36365ef4298d157d41759e855c5f091
-SHA256: c2c8ae201712c17d4198dc36d2a8604ddb6ec997c9a2f445544b7283db318f29
-Section: Terminal_Support
-Description: 安装后在 Terminal 运行 ft
- ====================
- 用于给没备份 Fonts 的人恢复自带的 Fonts
- ====================
- 不支持没有快照的 HFS (10.3-)
- 不支持金手指的 TimeMaachine (现在懒得改)
- 10.3-11.2.5 可以用 SnapBack 或者 Snappy 创建快照 orig-fs
- ====================
-Author: zhaonan <Invalidunit@icloud.com>
-Name: ft
-
 Package: com.nan.openccmm
 Version: 0.1.0
 Architecture: iphoneos-arm

@@ -415,6 +415,21 @@ Description: 屏蔽弹窗神器
 Author: aReo
 Name: DisableAlerts
 
+Package: com.flex2areo.disablealerts2
+Version: 2.3.0k
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate
+Filename: debs/com.flex2areo.disablealerts2_2.3.0k_iphoneos-arm.deb
+Size: 17396
+MD5sum: 701b41acf712204324378ccdb404b1ee
+SHA1: 30224fbb8cc021b079dd63a72a8dad11c4796f13
+SHA256: 0fff123b06762d4ff833780b287ed771bfc54ea2db3801db54c1ea6c3214ab4e
+Section: Tweaks
+Description: 屏蔽弹窗神器
+Author: aReo
+Name: DisableAlerts
+
 Package: com.ichitaso.notifywifix
 Version: 1.0.0k
 Architecture: iphoneos-arm

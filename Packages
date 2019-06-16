@@ -201,6 +201,23 @@ Icon: https://repo.conorthedev.com/img/chrono.png
 Name: Chrono
 Sileodepiction: https://repo.conorthedev.com/SileoDepictions/Chrono
 
+Package: com.conorthedev.chrono
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Entity
+Installed-Size: 340
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: debs/com.conorthedev.chrono_1.1.1_iphoneos-arm.deb
+Size: 35476
+MD5sum: 51c1f3e8bbb728f24aede2d4d4d5774d
+SHA1: 62bfdeff897b19f573c388ad2dd4b97bd0a75ce5
+SHA256: 8de982e64d17a2318904bc37b6b48a3d464697b13aaa3e94152a805b46f980ac
+Section: Tweaks
+Description: 为您的时钟应用添加秒数!
+Author: ConorTheDev
+Icon: https://conorthedev.github.io/img/chrono-logo.png
+Name: Chrono
+
 Package: com.conorthedev.dragspring
 Version: 1.2.1
 Architecture: iphoneos-arm
@@ -615,6 +632,21 @@ Icon: https://midnightchips.me/packages/bettersettings/PM.png
 Name: BetterSettings
 Sileodepiction: https://midnightchips.me/sileo/bettersettings.json
 
+Package: com.midnightchips.localhostssh
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Entity
+Depends: mobilesubstrate, firmware (>= 11.0), sed
+Filename: debs/com.midnightchips.localhostssh_0.0.1_iphoneos-arm.deb
+Size: 944
+MD5sum: 70c560b7826410e9076e2a95ee4a1525
+SHA1: b5276d83477d5469f52f146903565ebfd89c2f60
+SHA256: a5c864faaea69fbb45b9dbd0ee564fbb5cb923c2f0c08fe9aa998ef685b76f4b
+Section: System
+Description: Access localhost through SSH on iOS 11
+Author: MidnightChips
+Name: Local SSH
+
 Package: com.muirey03.libimagepicker
 Version: 1.0.2
 Architecture: iphoneos-arm
@@ -646,6 +678,28 @@ Description: A simple library for choosing images in preference bundles.
 Tag: role::developer
 Author: Muirey03
 Name: libimagepicker
+
+Package: com.nan.ft
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: Entity
+Depends: firmware (>= 10.3)
+Filename: debs/com.nan.ft_0.1.0_iphoneos-arm.deb
+Size: 1928
+MD5sum: c7bf562e152116aad6f7c0cb244c7ce6
+SHA1: 0b4b26c7cc1d388fa4d48b53937dbd7d4f2c676f
+SHA256: 92793665ff3de7e943e486f853630c6c5d0938a025f14126e215c46995697bf8
+Section: Terminal_Support
+Description: 安装后在 Terminal 运行 ft
+ ====================
+ 用于给没备份 Fonts 的人恢复自带的 Fonts
+ ====================
+ 不支持没有快照的 HFS (10.3-)
+ 不支持金手指的 TimeMaachine (现在懒得改)
+ 10.3-11.2.5 可以用 SnapBack 或者 Snappy 创建快照 orig-fs
+ ====================
+Author: zhaonan <Invalidunit@icloud.com>
+Name: ft
 
 Package: com.nan.openccmm
 Version: 0.1.0
@@ -987,6 +1041,22 @@ Description: iOS 的剪贴板历史记录管理器!
 Author: TomT000
 Name: CopyLog
 
+Package: me.tomt000.copylog
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Entity
+Installed-Size: 3644
+Depends: mobilesubstrate
+Filename: debs/me.tomt000.copylog_1.2_iphoneos-arm.deb
+Size: 1349724
+MD5sum: 2c502ff5d796d1e1475b58b5dbe90cdc
+SHA1: a86922ebb570ac5380121e7c3ff895d40155cf63
+SHA256: 5ba3741ac2065e85ea9196e6ccb0495fd1d36a0862f8a9dcbdced56368120139
+Section: Tweaks
+Description: iOS 的剪贴板历史记录管理器!
+Author: TomT000
+Name: CopyLog
+
 Package: net.tetherme.tetherme8
 Version: 1.2.3~arm64e-1
 Architecture: iphoneos-arm
@@ -1048,6 +1118,22 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sutuplusDp
 Dev: carby
 Name: SutuPLUS
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: uuid
+Version: 1.6.2
+Architecture: iphoneos-arm
+Maintainer: Entity
+Depends: cy+cpu.arm64
+Filename: debs/uuid_1.6.2_iphoneos-arm.deb
+Size: 23264
+MD5sum: 76f42f1a0caac5abd965cbd4cf223b7d
+SHA1: b73e14c4b999bffb4e174095b8b08b49907581f1
+SHA256: f0533c3b02d6d210449ed22772032e23f8797ff95d0ea80b1387a3f11c5994a1
+Section: System
+Priority: important
+Description: universally unique identifiers
+Tag: purpose::library, purpose::console, role::developer
+Name: UUID Generator
 
 Package: xyz.willy.zebra
 Version: 1.0~beta11

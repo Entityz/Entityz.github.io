@@ -515,6 +515,23 @@ Description: Noctis12 - 适用于 iOS 的系统级黑暗模式
 Author: LaughingQuoll
 Name: Noctis12
 
+Package: com.laughingquoll.noctis12
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: LaughingQuoll
+Installed-Size: 1680
+Depends: mobilesubstrate, preferenceloader, me.nepeta.libcolorpicker, com.laughingquoll.prefixui, com.spark.libsparkapplist, com.opa334.ccsupport, com.rpetrich.rocketbootstrap
+Conflicts: com.laughingquoll.noctisxi
+Filename: debs/com.laughingquoll.noctis12_1.7_iphoneos-arm.deb
+Size: 246804
+MD5sum: 2d53485e027fbc87926e91cbe542c4c3
+SHA1: f2356b652f51f3fa6c55fc1b67e7e0c3ba66c418
+SHA256: 6c13b18b03f297b3a8da317c116fbf845509e37d1ee9c05c5158ea294ce0eb63
+Section: Tweaks
+Description: Noctis12 - 适用于 iOS 的系统范围的黑暗模式
+Author: LaughingQuoll
+Name: Noctis12
+
 Package: com.laughingquoll.prefixui
 Version: 1.0-1+debug
 Architecture: iphoneos-arm

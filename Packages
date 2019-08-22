@@ -818,6 +818,21 @@ Description: 感谢 Alessandro Chiarlitti 发布的 Sential
 Author: zhaonan
 Name: Aential
 
+Package: com.nan.twig
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: mobilesubstrate
+Filename: debs/com.nan.twig_1.0.1_iphoneos-arm.deb
+Size: 7572
+MD5sum: 7636f4f007c7730ce2cafa26969d30fd
+SHA1: 69a112babaa1ce6ae35f8818c0ff8c7173d7a190
+SHA256: c14aa9b2caec5087415b0d0311bec80dc605bfd68f585a48734a634260546f61
+Section: Tweaks
+Description: 为 iOS10+ 的 iPhone 或者 iPod Touch 的锁屏添加一些天气
+Author: iOS Creatix
+Name: Twig
+
 Package: com.opa334.ccsupport
 Version: 1.2-3
 Architecture: iphoneos-arm

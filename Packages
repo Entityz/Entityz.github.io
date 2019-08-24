@@ -728,23 +728,37 @@ Author: Muirey03
 Name: libimagepicker
 
 Package: com.nan.ft
-Version: 0.1.0
+Version: 0.1.2
 Architecture: iphoneos-arm
-Maintainer: Entity
+Maintainer: zhaonan
 Depends: firmware (>= 10.3)
-Filename: debs/com.nan.ft_0.1.0_iphoneos-arm.deb
-Size: 1928
-MD5sum: c7bf562e152116aad6f7c0cb244c7ce6
-SHA1: 0b4b26c7cc1d388fa4d48b53937dbd7d4f2c676f
-SHA256: 92793665ff3de7e943e486f853630c6c5d0938a025f14126e215c46995697bf8
+Filename: debs/com.nan.ft_0.1.2_iphoneos-arm.deb
+Size: 1728
+MD5sum: 696d5d21d15afbf3661729ea13cf2340
+SHA1: 13390b2c35bf54ceadf5057abe5db97f932f5162
+SHA256: 1be851fba86bf19ff38e0094030822b7531181bad209e9f55958569cfa43918d
 Section: Terminal_Support
 Description: 安装后在 Terminal 运行 ft
  ====================
- 用于给没备份 Fonts 的人恢复自带的 Fonts
+ 恢复自带字体
  ====================
- 不支持没有快照的 HFS (10.3-)
- 不支持金手指的 TimeMaachine (现在懒得改)
- 10.3-11.2.5 可以用 SnapBack 或者 Snappy 创建快照 orig-fs
+Author: zhaonan <Invalidunit@icloud.com>
+Name: ft
+
+Package: com.nan.ft
+Version: 0.1.3
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.bingner.snappy|com.michael.snappy , firmware (>= 10.3)
+Filename: debs/com.nan.ft_0.1.3_iphoneos-arm.deb
+Size: 1680
+MD5sum: 585e7f1516ad0c02283b47cb3917a5d7
+SHA1: cea158b86e1ae648a440dc2cc2dcbdf611c93872
+SHA256: 27434dee83c760ba3493d28c92d193d9b54766c8820e208e3a3fc01a671f2ca7
+Section: Terminal_Support
+Description: 安装后在 Terminal 运行 ft
+ ====================
+ 恢复自带字体
  ====================
 Author: zhaonan <Invalidunit@icloud.com>
 Name: ft

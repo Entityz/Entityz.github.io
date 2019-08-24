@@ -583,6 +583,22 @@ Tag: role::developer
 Author: LaughingQuoll
 Name: PrefixUI
 
+Package: com.level3tjg.bfdecrypt
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: Entity
+Depends: firmware(>=11.0), preferenceloader, applist
+Filename: debs/com.level3tjg.bfdecrypt_1.3.1_iphoneos-arm.deb
+Size: 83412
+MD5sum: 622ce363eed1f26184a329b5d3ffdb9c
+SHA1: 5de37ddd57cc2b737f03635157a92c5e08fbe4f0
+SHA256: 4f183ada08ad7690cea398e6f670f09d80e0b1f17ce941de0bd0c23c8afe116d
+Section: System
+Description: bfdecrypt 在 iOS 11 到 12.1.2
+Author: level3tjg <tjaygrantham@gmail.com>
+Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.bfdecrypt
+Name: bfdecrypt
+
 Package: com.michael.snappy
 Version: 1.2
 Architecture: iphoneos-arm

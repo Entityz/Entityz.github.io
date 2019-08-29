@@ -124,6 +124,24 @@ Author: John Coates
 Name: Flex 3 Beta
 Recommended: com.rpetrich.rocketbootstrap
 
+Package: Flex3beta
+Version: 1:3~Beta63
+Architecture: iphoneos-arm
+Maintainer: Entity
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Filename: debs/Flex3beta_1:3~Beta63_iphoneos-arm.deb
+Size: 15429312
+MD5sum: ba5c525513a32b228c2516bdf29a9bcf
+SHA1: 879b23213fb244973b38ae0da857e9c72afcac2f
+SHA256: 9698568472f9fc45f3919f0eb3f35b6c7dc7d3e6148709a71395f592b134c848
+Section: Tweaks
+Description: 开发自己的调整并在 Flex 社区云上共享它们
+Author: John Coates
+Name: Flex 3 Beta
+Recommended: com.rpetrich.rocketbootstrap
+
 Package: com.bingner.plutil
 Version: 0.1.0
 Architecture: iphoneos-arm
@@ -805,6 +823,22 @@ Size: 5184
 MD5sum: e323e76be00a7e84ab853ee106a8f1f7
 SHA1: fed25f54e115a8fc35eed4cf78cd5a1dc1f8ea64
 SHA256: 194ad6166956bbdf5d39af26755def402cc3c66510c1857bee98b16d574a4999
+Section: 汉化
+Description: 适用于 Sileo 的汉化
+Author: zhaonan
+Icon: file:///Applications/Sileo.app/AppIcon60x60@2x.png
+Name: Sileo 汉化
+
+Package: com.nan.sileo.zh
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: org.coolstar.sileo
+Filename: debs/com.nan.sileo.zh_0.1.4_iphoneos-arm.deb
+Size: 5160
+MD5sum: e02bebf6deca9d816ce0a89b48673dcf
+SHA1: cdcf6e75894159b86c92a96d8615071db44d3c50
+SHA256: 44f97ad509be8bbbf21b5dda13aa39e9e227115defaef3d38417ff67b9f0ac8a
 Section: 汉化
 Description: 适用于 Sileo 的汉化
 Author: zhaonan

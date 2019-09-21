@@ -1001,6 +1001,26 @@ Dev: ashikase
 Name: CrashReporter
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: cycript
+Version: 0.9.594
+Architecture: iphoneos-arm
+Maintainer: Entity
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: readline, adv-cmds, mobilesubstrate (>= 0.9.6300)
+Breaks: cydget (<< 0.9.4008)
+Filename: debs/cycript_0.9.594_iphoneos-arm.deb
+Size: 1226016
+MD5sum: e14453fe0b2ea864ddd75924cc7d06af
+SHA1: 342d6d818a65658a6e3751967ff128866cfeb14d
+SHA256: b8d79e2d499bd9fcbfff157d13e44915673016cab7290e27028df231f19dced8
+Section: Development
+Priority: optional
+Description: 运行时执行服务器和反汇编程序
+Tag: purpose::daemon, role::developer
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/cycript/
+Name: Cycript
+
 Package: diskdev-cmds
 Version: 593-1
 Architecture: iphoneos-arm
@@ -1066,15 +1086,14 @@ Package: ldid
 Version: 2:3.0-coolstar2
 Architecture: iphoneos-arm
 Maintainer: Entity
-Installed-Size: 272
 Filename: debs/ldid_2:3.0-coolstar2_iphoneos-arm.deb
-Size: 25904
-MD5sum: 220b601ae2240f15ce5e183ce9aaa3ed
-SHA1: b0dd686703603e92342628a33e6767d025984978
-SHA256: fec3767226823095f1c8a2a9b202f020134461375c46afd826d6db5aa56ec14f
+Size: 25892
+MD5sum: 8d6dd1a6ded96b173bac612ff93892b7
+SHA1: d07deb6a924cb18a30e3bd25e9b262c03485388c
+SHA256: 123214847539e35067111350bd3c7c8c036139a2aba6f55f07405cb2f4bd4af0
 Section: Development
 Priority: optional
-Description: 伪编码 Mach-O 文件
+Description: 伪协同设计 Mach-O 文件
 Tag: purpose::console, role::developer
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/ldid/
@@ -1229,6 +1248,21 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sutuplusDp
 Dev: carby
 Name: SutuPLUS
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: readline
+Version: 8.0-1
+Architecture: iphoneos-arm
+Maintainer: Entity
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: ncurses
+Filename: debs/readline_8.0-1_iphoneos-arm.deb
+Size: 129516
+MD5sum: d8237842fe6a2f1b97f696234b39ce9d
+SHA1: 26c7879781003e6452c857cb2d844adf07912d32
+SHA256: 02f93ac6ecda22229a88a561e5269e283904855632d9d87e87cf571c8ea7cfd9
+Section: Development
+Priority: required
+Description: 命令行历史记录管理
 
 Package: uuid
 Version: 1.6.2

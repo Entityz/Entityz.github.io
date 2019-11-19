@@ -617,6 +617,21 @@ Author: level3tjg <tjaygrantham@gmail.com>
 Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.bfdecrypt
 Name: bfdecrypt
 
+Package: com.level3tjg.slimvolumehud
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Entity
+Depends: mobilesubstrate
+Filename: debs/com.level3tjg.slimvolumehud_0.0.1_iphoneos-arm.deb
+Size: 3814
+MD5sum: 97dceaf19533f0d154a33f34b71f6a64
+SHA1: ffc4d70ef56566aaede3a6a983a9dbb034188f72
+SHA256: ca416286dc7c846fd30b8fb6a072f839510380f9c212068523437a62ea96e3b8
+Section: Tweaks
+Description: 摆脱 "脂肪" iOS 13 音量 HUD 状态
+Author: level3tjg
+Name: SlimVolumeHUD
+
 Package: com.michael.snappy
 Version: 1.2
 Architecture: iphoneos-arm
